@@ -27,3 +27,6 @@ One-page landing for the advertising agency **nica reklama**, built on Bootstrap
 
 ## Screens
 All sections appear in the same order as the course mockup; check `index.html` for details.
+
+## Live Demo
+https://ilonatka.github.io/nica-reklama/
