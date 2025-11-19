@@ -11,14 +11,13 @@ One-page landing for the advertising agency **nica reklama**, built on Bootstrap
 ## Tech Stack
 - HTML5 + Bootstrap 5.3
 - Bootstrap Icons
-- Custom CSS (`28/style.css`)
+- Custom CSS (`style.css`)
 
 ## Project Structure
 ```
-28/
-├── index.html      # main page
-├── style.css       # additional styling
-└── img/            # images (backgrounds, illustrations)
+index.html # main page
+style.css # additional styling
+img/ # images (backgrounds, illustrations)
 ```
 
 ## Getting Started
